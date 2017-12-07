@@ -60,9 +60,7 @@ public class ServletAlcanzar extends HttpServlet {
         //PrintWriter out = response.getWriter();
        
          
-//        UserName :  <input type="text" name="user" /><br /> 
-//        
-//        Password :  <input type="password" name="password" /><br /> 
+       
              processRequest(request, response);
     }
 
